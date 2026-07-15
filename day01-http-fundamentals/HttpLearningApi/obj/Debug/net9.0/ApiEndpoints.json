@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "HttpLearningApi.Controllers.HttpDebugController",
+    "Method": "InspectRequest",
+    "RelativePath": "debug",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

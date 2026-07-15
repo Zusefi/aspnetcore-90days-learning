@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alborz\\source\\repos\\HttpLearningApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAA04FB-180A-AF65-6396-017FDECCCB4E}|HttpLearningApi.csproj|c:\\users\\alborz\\source\\repos\\httplearningapi\\controllers\\httpdebugcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAA04FB-180A-AF65-6396-017FDECCCB4E}|HttpLearningApi.csproj|solutionrelative:controllers\\httpdebugcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAA04FB-180A-AF65-6396-017FDECCCB4E}|HttpLearningApi.csproj|c:\\users\\alborz\\source\\repos\\httplearningapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAA04FB-180A-AF65-6396-017FDECCCB4E}|HttpLearningApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alborz\\source\\repos\\HttpLearningApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Alborz\\source\\repos\\HttpLearningApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T13:42:59.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HttpDebugController.cs",
+              "DocumentMoniker": "C:\\Users\\Alborz\\source\\repos\\HttpLearningApi\\Controllers\\HttpDebugController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HttpDebugController.cs",
+              "ToolTip": "C:\\Users\\Alborz\\source\\repos\\HttpLearningApi\\Controllers\\HttpDebugController.cs",
+              "RelativeToolTip": "Controllers\\HttpDebugController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswBUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T13:11:54.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
