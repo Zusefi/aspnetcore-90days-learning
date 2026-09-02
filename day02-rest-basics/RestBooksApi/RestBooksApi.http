@@ -1,0 +1,6 @@
+@RestBooksApi_HostAddress = http://localhost:5278
+
+GET {{RestBooksApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
